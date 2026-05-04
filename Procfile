@@ -1,1 +1,1 @@
-worker: pip install --no-cache-dir -r requirements.txt && python main.py
+worker: pip install --upgrade pip setuptools wheel && pip install --no-cache-dir -r requirements.txt && python main.py
