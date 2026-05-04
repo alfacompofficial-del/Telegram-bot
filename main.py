@@ -8,7 +8,7 @@ from aiogram import Bot, Dispatcher, types, F
 load_dotenv()
 
 # --- НАСТРОЙКИ ---
-API_TOKEN = os.getenv('API_TOKEN')
+API_TOKEN = os.getenv(8281850605:AAH4P2nxaHykcAgh2TvIwKoWu-oo61Na0jo')
 SOURCE_GROUP_ID = int(os.getenv('SOURCE_GROUP_ID', -1002153720177))
 TARGET_GROUP_ID = int(os.getenv('TARGET_GROUP_ID', -1002187172073))
 
